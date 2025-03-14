@@ -1,6 +1,6 @@
 ## 【国内在线免费】国内可用的 ChatGPT 免费中文版镜像网站整理（2025年3月更新）
 
-> 更新日期：2025/03/14         
+> 更新日期：2025/03/15         
 
 我们专门为大家整理了一些国内可以免费直接使用的 **ChatGPT 中文版镜像网站**，**无需翻墙**即可体验 ChatGPT 的强大功能。
 
@@ -27,17 +27,17 @@
 1. **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))**   
    **ChatGPT 中文版镜像网站**，提供支持 GPT-4、4o、4o mini 及 o1 的全面服务，包含 AI绘画、AI插件、AI助手、AI PPT 功能，使用便捷。
 
-2. **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))**  
-   **ChatGPT 镜像网站**，多功能平台，支持 GPT-4、4o 及 o1，适应各种用户需求。，多功能平台，支持 GPT-4、4o 及 o1，适应各种用户需求。
+2. **蓝鲸AI ([lanjing.ai](https://lanjing.ai/))**  
+   **ChatGPT 镜像网站**，支持 GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet、Grok 3 最先进的模型，无限使用~
 
-3. **AI指南 ([yixiaai.cn](https://yixiaai.cn/))**  
+3. **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))**  
+   **ChatGPT 中文站**，多功能平台，支持 GPT-4、4o 及 o1，适应各种用户需求。，多功能平台，支持 GPT-4、4o 及 o1，适应各种用户需求。
+
+4. **AI指南 ([yixiaai.cn](https://yixiaai.cn/))**  
    **AI工具站**，提供各种 AI 工具，满足您各种需求。，提供各种 AI 工具，满足您各种需求。
 
-4. **小鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))**  
-   简单易用的    简单易用的 **ChatGPT-4 镜像站**，快速访问，无需注册。，快速访问，无需注册。
-
-5. **蓝鲸AI ([lanjing.ai](https://lanjing.ai/))**  
-   **免费ChatGPT**，提供免费 GPT 服务，支持 GPT-4、4o，功能多样。，提供免费 GPT 服务，支持 GPT-4、4o，功能多样。
+5. **小鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))**  
+   简单易用的 **ChatGPT-4 镜像站**，快速访问，无需注册。，快速访问，无需注册。
 
 ------
 
