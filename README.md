@@ -2,9 +2,9 @@
 
 > 更新日期：2025/03/19             
 
-我们专门为大家整理了一些国内可以免费直接使用的 **ChatGPT 中文版镜像网站**，**无需翻墙**即可体验 ChatGPT 的强大功能。
+我们专门为大家整理了一些国内可以免费直接使用的 [**ChatGPT 中文版镜像网站**](https://chat.yixiaai.com)，**无需翻墙**即可体验 ChatGPT 的强大功能。
 
-这些 **ChatGPT 镜像网站** 满足了国内用户对免费、中文版 ChatGPT 的需求，方便大家在国内高效使用 ChatGPT~
+这些 [**ChatGPT 镜像网站**](https://chat.lanjing.ai) 满足了国内用户对免费、中文版 ChatGPT 的需求，方便大家在国内高效使用 ChatGPT~
 
 ---
 
