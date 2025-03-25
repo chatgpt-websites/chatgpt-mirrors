@@ -1,16 +1,19 @@
 ## 【国内在线免费】国内可用的 ChatGPT 免费中文版镜像网站整理（2025年3月更新）
 
-> 更新日期：2025/03/21           
+> 更新日期：2025/03/26           
 
-我们专门为大家整理了一些国内可以免费直接使用的 [**ChatGPT 中文版镜像网站**](https://chat.yixiaai.com)，**无需翻墙**即可体验 ChatGPT 的强大功能。
+我们专门为大家整理了一些国内可以免费直接使用的 [**ChatGPT 中文版镜像网站**](https://chat.lanjing.ai)，**无需翻墙**即可体验 ChatGPT 的强大功能。
 
-这些 [**ChatGPT 镜像网站**](https://chat.lanjing.ai) 满足了国内用户对免费、中文版 ChatGPT 的需求，方便大家在国内高效使用 ChatGPT~
+这些 [**ChatGPT 镜像网站**](https://chat.yixiaai.com) 满足了国内用户对免费、中文版 ChatGPT 的需求，方便大家在国内高效使用 ChatGPT~
+
+**ChatGPT 中文版入口：[https://chat.lanjing.ai](https://chat.lanjing.ai)**   
+**ChatGPT 镜像网站：[https://chat.yixiaai.com](https://chat.yixiaai.com)**
 
 ---
 
 ## 什么是 ChatGPT 镜像网站？
 
-**ChatGPT 镜像网站**（ChatGPT Mirror）是通过复制原始 ChatGPT 官网的内容和功能创建的备用网站，旨在方便国内用户使用。
+[**ChatGPT 镜像网站**](https://chat.lanjing.ai)（ChatGPT Mirror）是通过复制原始 ChatGPT 官网的内容和功能创建的备用网站，旨在方便国内用户使用。
 
 相比官网，**ChatGPT 镜像网站**更适合国内用户：
 
