@@ -1,13 +1,13 @@
 ## 【国内在线免费】国内可用的 ChatGPT 免费中文版镜像网站整理（2025年5月更新）
 
-> 更新日期：2025/05/14          
+> 更新日期：2025/05/15          
 
 我们专门为大家整理了一些国内可以免费直接使用的 [**ChatGPT 中文版镜像网站**](https://chat.lanjing.pro)，**无需翻墙**即可体验 ChatGPT 的强大功能。
 
-这些 [**ChatGPT 镜像网站**](https://chat.yixiaai.com) 满足了国内用户对免费、中文版 ChatGPT 的需求，方便大家在国内高效使用 ChatGPT~
+这些 [**ChatGPT 镜像网站**](https://xsimplechat.com) 满足了国内用户对免费、中文版 ChatGPT 的需求，方便大家在国内高效使用 ChatGPT~
 
 **ChatGPT 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
-**ChatGPT 镜像网站：[https://chat.yixiaai.com](https://chat.yixiaai.com)**
+**ChatGPT 镜像网站：[https://chat.yixiaai.com](https://xsimplechat.com)**
 
 ---
 
@@ -27,7 +27,7 @@
 
 以下是精选的国内优质 ****ChatGPT 镜像网站ChatGPT 镜像网站****，提供高效的中文访问体验：
 
-1. **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))**   
+1. **一下AI ([chat.yixiaai.com](https://xsimplechat.com/))**   
    **ChatGPT 中文版镜像网站**，提供支持 GPT-4、4o、4o mini 及 o1 的全面服务，包含 AI绘画、AI插件、AI助手、AI PPT 功能，使用便捷。
 
 2. **蓝鲸AI ([chat.lanjing.pro](https://chat.lanjing.pro/))**  
