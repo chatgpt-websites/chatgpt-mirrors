@@ -1,19 +1,19 @@
 ## 【国内在线免费】国内可用的 ChatGPT 免费中文版镜像网站整理（2025年6月更新）
 
-> 更新日期：2025/06/08          
+> 更新日期：2025/06/21          
 
-我们专门为大家整理了一些国内可以免费直接使用的 [**ChatGPT 中文版镜像网站**](https://chat.lanjing.pro)，**无需翻墙**即可体验 ChatGPT 的强大功能。
+我们专门为大家整理了一些国内可以免费直接使用的 [**ChatGPT 中文版镜像网站**](https://talk.lanjing.pro)，**无需翻墙**即可体验 ChatGPT 的强大功能。
 
 这些 [**ChatGPT 镜像网站**](https://xsimplechat.com) 满足了国内用户对免费、中文版 ChatGPT 的需求，方便大家在国内高效使用 ChatGPT~
 
-**ChatGPT 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
+**ChatGPT 中文版入口：[https://talk.lanjing.pro](https://talk.lanjing.pro)**   
 **ChatGPT 镜像网站：[https://chat.yixiaai.com](https://xsimplechat.com)**
 
 ---
 
 ## 什么是 ChatGPT 镜像网站？
 
-[**ChatGPT 镜像网站**](https://chat.lanjing.pro)（ChatGPT Mirror）是通过复制原始 ChatGPT 官网的内容和功能创建的备用网站，旨在方便国内用户使用。
+[**ChatGPT 镜像网站**](https://talk.lanjing.pro)（ChatGPT Mirror）是通过复制原始 ChatGPT 官网的内容和功能创建的备用网站，旨在方便国内用户使用。
 
 相比官网，**ChatGPT 镜像网站**更适合国内用户：
 
@@ -30,10 +30,10 @@
 1. **一下AI ([chat.yixiaai.com](https://xsimplechat.com/))**   
    **ChatGPT 中文版镜像网站**，提供支持 GPT-4、4o、4o mini 及 o1 的全面服务，包含 AI绘画、AI插件、AI助手、AI PPT 功能，使用便捷。
 
-2. **蓝鲸AI ([chat.lanjing.pro](https://chat.lanjing.pro/))**  
+2. **蓝鲸AI ([talk.lanjing.pro](https://talk.lanjing.pro/))**  
    **ChatGPT 镜像网站**，支持 GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet、Grok 3 最先进的模型，无限使用~
 
-3. **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))**  
+3. **AI智慧岛 ([chat.lify.vip](https://chat.yixiaai.com/))**  
    **ChatGPT 中文站**，多功能平台，支持 GPT-4、4o 及 o1，适应各种用户需求。，多功能平台，支持 GPT-4、4o 及 o1，适应各种用户需求。
 
 4. **AI指南 ([yixiaai.cn](https://yixiaai.cn/))**  
